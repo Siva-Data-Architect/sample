@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: jline-2.14.3.jar scala-library.jar scala-reflect.jar scala
+ p-2.12.2.jar scala-compiler.jar scala-xml_2.12-1.0.6.jar scala-swing_
+ 2.12-2.0.0.jar scala-parser-combinators_2.12-1.0.5.jar scala-library.
+ jar scala-parser-combinators_2.12-1.0.5.jar scala-reflect.jar scala-s
+ wing_2.12-2.0.0.jar scala-xml_2.12-1.0.6.jar
+Main-Class: com.Info.sample
+

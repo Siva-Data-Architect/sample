@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="sample:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sample_jar</output-path>
+    <root id="root">
+      <element id="archive" name="sample.jar">
+        <element id="module-output" name="sample" />
+      </element>
+      <element id="library" level="project" name="scala" />
+      <element id="library" level="project" name="scala-sdk-2.12.2" />
+    </root>
+  </artifact>
+</component>
